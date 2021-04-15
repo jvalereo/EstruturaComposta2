@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\bin\Debug\Aula22.exe.config
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\bin\Debug\Aula22.exe
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\bin\Debug\Aula22.pdb
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\obj\Debug\Aula22.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\obj\Debug\Aula22.exe
+C:\Users\JONAS\Desktop\Exercicio Intermediario C# 2022\Aula22\Aula22\obj\Debug\Aula22.pdb
+C:\Users\JONAS\Desktop\Aula22\Aula22\bin\Debug\Aula22.exe.config
+C:\Users\JONAS\Desktop\Aula22\Aula22\obj\Debug\Aula22.exe
+C:\Users\JONAS\Desktop\Aula22\Aula22\obj\Debug\Aula22.pdb
